@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace StructureAlgorithm.StructureTool
 {
+    /// <summary>
+    /// 平衡树
+    /// </summary>
     public class AVLTreeTool
     {
         public static void Show()
