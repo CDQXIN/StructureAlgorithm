@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace StructureAlgorithm.StructureTool
 {
     /// <summary>
-    /// 
+    /// 树
     /// </summary>
     public class TreeTool
     {
