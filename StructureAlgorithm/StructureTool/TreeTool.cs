@@ -89,6 +89,9 @@ namespace StructureAlgorithm.StructureTool
             Console.WriteLine(tree1.Max());
             Console.WriteLine(tree1.Find(25).iData);
         }
+        /// <summary>
+        /// 树的结构
+        /// </summary>
 
         private class CustomTreeNode
         {
